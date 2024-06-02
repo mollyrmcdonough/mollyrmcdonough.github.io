@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 👩🏻‍🔬 I'm currently a 2nd year Ph.D Student in Materials Science & Engineering
+
 🧪 My research interest is focused on molecular beam epitaxy of materials for long-wave infrared sensors.
+
 ✍🏻 I am passionate about mentorship and science communication.
 
 ## Highlights
