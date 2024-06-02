@@ -24,7 +24,7 @@ author:
   avatar: "profile_pic_molly1.jpg"
   name: "Molly McDonough"
   pronouns: "she/her"
-  bio: "Short biography for the left-hand sidebar"
+  bio: "Materials Science & Engineering Ph.D. Student"
   location: "Earth"
   employer: "Pennsylvania State University"
   uri: # URL
@@ -70,7 +70,7 @@ author:
   weibo: # Username
   wikipedia: # Username
   xing: # Username
-  youtube: "mollyrmcdonough"
+  youtube: "@mollyrmcdonough"
   zhihu: # URL
 
 # Site Settings
