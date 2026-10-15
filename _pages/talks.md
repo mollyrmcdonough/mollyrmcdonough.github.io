@@ -7,10 +7,9 @@ author_profile: true
 
 ## Invited Talks
 
-1. "Synthesis-Structure Property Relationships in III-V Semiconductors: from Photocathodes to Self-Assembled Quantum Dots." *Invited seminar* at Sandia National Laboratories. October 2026. Albuquerque, NM.
-2. "How to Leverage Claude Code for Programming, Productivity and Research." *Invited seminar* at Layered and Thin-film Technologies with Intelligent Cloud Experimentation (LATTICE) x 2D Crystal Consortium (2DCC) Lunch and Learning at Pennsylvania State University. October 2026. State College, PA.
-3. "Perspectives on Graduate School & Research." *Invited lecture* in Introduction to Materials Science (MATSE-201) at Pennsylvania State University. November 2024. State College, PA.
-4. "The joys, trials, and tribulations of grad school." *Invited seminar* at Juniata College, Department of Physics. November 2023. Juniata, PA.
+1. "How to Leverage Claude Code for Programming, Productivity and Research." *Invited seminar* at Layered and Thin-film Technologies with Intelligent Cloud Experimentation (LATTICE) x 2D Crystal Consortium (2DCC) Lunch and Learning at Pennsylvania State University. October 2026. State College, PA.
+2. "Perspectives on Graduate School & Research." *Invited lecture* in Introduction to Materials Science (MATSE-201) at Pennsylvania State University. November 2024. State College, PA.
+3. "The joys, trials, and tribulations of grad school." *Invited seminar* at Juniata College, Department of Physics. November 2023. Juniata, PA.
 
 ## Contributed Talks
 
